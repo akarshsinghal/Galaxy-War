@@ -8,7 +8,6 @@ print ("==========CREDITS==========")
 print ("  Main programmer: Akarsh")
 print ("  Images: Google Images")
 print ("  Sound: Audio Library Youtube")
-print ("  Tester: Dheeraj Thind")
 print ("  Tester after the game is of no more use: Sheehan Arora")
 print ("  Website for initiating the ship to shoot/more: Kids Can Code")
 
